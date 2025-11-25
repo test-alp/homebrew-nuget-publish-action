@@ -3,8 +3,8 @@ require_relative "dotnet-requirement"
 class NugetPublishAction < Formula
   desc "dotnet tool homebrew poc"
   homepage "https://github.com/test-alp/nuget-publish-action"
-  url "https://nuget.org/api/v2/package/NugetPublishAction/0.0.34"
-  sha256 "163e4db288a35393a902de4ec58ac750b82d50afede6ec53d4dad382ac0b68e8"
+  url "https://nuget.org/api/v2/package/NugetPublishAction/0.0.36"
+  sha256 "b65083115c6dfe320439ba43b243d3d8add9cd242870141cf19f12c5d368d9d1"
 
   depends_on DotnetRequirement
 
